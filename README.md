@@ -1,4 +1,4 @@
-csgoconfigs
+My CS:GO configs
 ===========
 
 My config files for Counter-Strike: Global Offensive
